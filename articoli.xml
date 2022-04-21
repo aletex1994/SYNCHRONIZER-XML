@@ -1,0 +1,1588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- File in formato Easyfatt-XML creato con Danea Easyfatt - www.danea.it/software/easyfatt -->
+<!-- Per importare o creare un file in formato Easyfatt-Xml, consultare la documentazione tecnica: www.danea.it/software/easyfatt/xml -->
+<EasyfattProducts AppVersion="2" Creator="Danea Easyfatt Enterprise  2019.41f" CreatorUrl="http://www.danea.it/software/easyfatt" Mode="full" ImageFolder="D:\Documenti\Danea Easyfatt\Archivi\ITALIATURBO (16) - Allegati\Prod" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.danea.it/public/prodotti.xsd">
+  <Products>
+    <Product>
+      <InternalID>639</InternalID>
+      <Code>ACT23</Code>
+      <Description>ATTUATORE</Description>
+      <DescriptionHtml></DescriptionHtml>
+      <Category>ATTUATORE</Category>
+      <Vat Perc="22" Class="Imponibile" Description="Aliquota 22%">22</Vat>
+      <Um>pz</Um>
+      <NetPrice1>180</NetPrice1>
+      <GrossPrice1>219.6</GrossPrice1>
+      <NetPrice2>171</NetPrice2>
+      <GrossPrice2>208.62</GrossPrice2>
+      <NetPrice3>162</NetPrice3>
+      <GrossPrice3>197.64</GrossPrice3>
+      <NetPrice4>153</NetPrice4>
+      <GrossPrice4>186.66</GrossPrice4>
+      <NetPrice5>144</NetPrice5>
+      <GrossPrice5>175.68</GrossPrice5>
+      <NetPrice6>135</NetPrice6>
+      <GrossPrice6>164.7</GrossPrice6>
+      <NetPrice7>126</NetPrice7>
+      <GrossPrice7>153.72</GrossPrice7>
+      <NetPrice8>117</NetPrice8>
+      <GrossPrice8>142.74</GrossPrice8>
+      <NetPrice9>108</NetPrice9>
+      <GrossPrice9>131.76</GrossPrice9>
+      <ProducerName>KKK</ProducerName>
+      <SupplierCode>0002</SupplierCode>
+      <SupplierName>E&amp;E</SupplierName>
+      <SupplierProductCode>K043E</SupplierProductCode>
+      <SupplierNetPrice>162</SupplierNetPrice>
+      <SupplierGrossPrice>197.64</SupplierGrossPrice>
+      <SizeUm>cm</SizeUm>
+      <WeightUm>kg</WeightUm>
+      <ManageWarehouse>true</ManageWarehouse>
+      <OrderStep>5</OrderStep>
+      <MinStock>2</MinStock>
+      <AvailableQty>0</AvailableQty>
+      <Notes>&lt;pclass="escsel"&gt;
+
+
+TURBO
+53039700109 53039880109
+53039700133 53039880133
+53039700138 53039880138
+53039700140 53039880140
+53039700189 53039880189
+MOT-
+
+
+
+
+OE-
+03L145701
+
+                                                                             &lt;/p&gt;</Notes>
+    </Product>
+    <Product>
+      <InternalID>642</InternalID>
+      <Code>ACT26</Code>
+      <Description>ATTUATORE</Description>
+      <DescriptionHtml></DescriptionHtml>
+      <Category>ATTUATORE</Category>
+      <Vat Perc="22" Class="Imponibile" Description="Aliquota 22%">22</Vat>
+      <Um>pz</Um>
+      <ProducerName>GARRETT</ProducerName>
+      <SupplierCode>0002</SupplierCode>
+      <SupplierName>E&amp;E</SupplierName>
+      <SizeUm>cm</SizeUm>
+      <WeightUm>kg</WeightUm>
+      <ManageWarehouse>true</ManageWarehouse>
+      <MinStock>2</MinStock>
+      <AvailableQty>0</AvailableQty>
+      <Notes>&lt;pclass="escsel"&gt;
+
+
+TURBO
+
+
+S-
+
+
+
+OE-
+
+                                                                             &lt;/p&gt;</Notes>
+    </Product>
+    <Product>
+      <InternalID>645</InternalID>
+      <Code>ACT29</Code>
+      <Description>ATTUATORE</Description>
+      <DescriptionHtml></DescriptionHtml>
+      <Category>ATTUATORE</Category>
+      <Vat Perc="22" Class="Imponibile" Description="Aliquota 22%">22</Vat>
+      <Um>pz</Um>
+      <ProducerName>GARRETT</ProducerName>
+      <SupplierCode>0002</SupplierCode>
+      <SupplierName>E&amp;E</SupplierName>
+      <SizeUm>cm</SizeUm>
+      <WeightUm>kg</WeightUm>
+      <ManageWarehouse>true</ManageWarehouse>
+      <MinStock>2</MinStock>
+      <AvailableQty>0</AvailableQty>
+      <Notes>&lt;pclass="escsel"&gt;
+
+
+TURBO
+
+
+S-
+
+
+
+OE-
+
+                                                                             &lt;/p&gt;</Notes>
+    </Product>
+    <Product>
+      <InternalID>648</InternalID>
+      <Code>ACT32</Code>
+      <Description>ATTUATORE</Description>
+      <DescriptionHtml></DescriptionHtml>
+      <Category>ATTUATORE</Category>
+      <Vat Perc="22" Class="Imponibile" Description="Aliquota 22%">22</Vat>
+      <Um>pz</Um>
+      <ProducerName>GARRETT</ProducerName>
+      <SupplierCode>0002</SupplierCode>
+      <SupplierName>E&amp;E</SupplierName>
+      <SizeUm>cm</SizeUm>
+      <WeightUm>kg</WeightUm>
+      <ManageWarehouse>true</ManageWarehouse>
+      <MinStock>2</MinStock>
+      <AvailableQty>0</AvailableQty>
+      <Notes>&lt;pclass="escsel"&gt;
+
+
+TURBO
+
+
+S-
+
+
+
+OE-
+
+                                                                             &lt;/p&gt;</Notes>
+    </Product>
+    <Product>
+      <InternalID>651</InternalID>
+      <Code>ACT35</Code>
+      <Description>ATTUATORE</Description>
+      <DescriptionHtml></DescriptionHtml>
+      <Category>ATTUATORE</Category>
+      <Vat Perc="22" Class="Imponibile" Description="Aliquota 22%">22</Vat>
+      <Um>pz</Um>
+      <ProducerName>GARRETT</ProducerName>
+      <SupplierCode>0002</SupplierCode>
+      <SupplierName>E&amp;E</SupplierName>
+      <SizeUm>cm</SizeUm>
+      <WeightUm>kg</WeightUm>
+      <ManageWarehouse>true</ManageWarehouse>
+      <MinStock>2</MinStock>
+      <AvailableQty>0</AvailableQty>
+      <Notes>&lt;pclass="escsel"&gt;
+
+
+TURBO
+
+
+S-
+
+
+
+OE-
+
+                                                                             &lt;/p&gt;</Notes>
+    </Product>
+    <Product>
+      <InternalID>624</InternalID>
+      <Code>ACT8</Code>
+      <Description>ATTUATORE 100</Description>
+      <DescriptionHtml></DescriptionHtml>
+      <Category>ATTUATORE</Category>
+      <Vat Perc="22" Class="Imponibile" Description="Aliquota 22%">22</Vat>
+      <Um>pz</Um>
+      <NetPrice1>300</NetPrice1>
+      <GrossPrice1>366</GrossPrice1>
+      <NetPrice2>285</NetPrice2>
+      <GrossPrice2>347.7</GrossPrice2>
+      <NetPrice3>270</NetPrice3>
+      <GrossPrice3>329.4</GrossPrice3>
+      <NetPrice4>255</NetPrice4>
+      <GrossPrice4>311.1</GrossPrice4>
+      <NetPrice5>240</NetPrice5>
+      <GrossPrice5>292.8</GrossPrice5>
+      <NetPrice6>225</NetPrice6>
+      <GrossPrice6>274.5</GrossPrice6>
+      <NetPrice7>210</NetPrice7>
+      <GrossPrice7>256.2</GrossPrice7>
+      <NetPrice8>195</NetPrice8>
+      <GrossPrice8>237.9</GrossPrice8>
+      <NetPrice9>180</NetPrice9>
+      <GrossPrice9>219.6</GrossPrice9>
+      <ProducerName>GARRETT</ProducerName>
+      <SupplierCode>0002</SupplierCode>
+      <SupplierName>E&amp;E</SupplierName>
+      <SizeUm>cm</SizeUm>
+      <WeightUm>kg</WeightUm>
+      <ManageWarehouse>true</ManageWarehouse>
+      <MinStock>2</MinStock>
+      <AvailableQty>50</AvailableQty>
+      <Notes>
+
+
+
+12345670000</Notes>
+      <ImageFileName>ACT8 -- 000 (624).jpg</ImageFileName>
+    </Product>
+    <Product>
+      <InternalID>833</InternalID>
+      <Code>CA72</Code>
+      <Description>COREASSY GARRETT</Description>
+      <DescriptionHtml></DescriptionHtml>
+      <Category>COREASSY</Category>
+      <Vat Perc="22" Class="Imponibile" Description="Aliquota 22%">22</Vat>
+      <Um>pz</Um>
+      <NetPrice1>88.5</NetPrice1>
+      <GrossPrice1>107.97</GrossPrice1>
+      <NetPrice2>84.08</NetPrice2>
+      <GrossPrice2>102.58</GrossPrice2>
+      <NetPrice3>79.65</NetPrice3>
+      <GrossPrice3>97.17</GrossPrice3>
+      <NetPrice4>75.23</NetPrice4>
+      <GrossPrice4>91.78</GrossPrice4>
+      <NetPrice5>70.8</NetPrice5>
+      <GrossPrice5>86.38</GrossPrice5>
+      <NetPrice6>66.38</NetPrice6>
+      <GrossPrice6>80.98</GrossPrice6>
+      <NetPrice7>61.95</NetPrice7>
+      <GrossPrice7>75.58</GrossPrice7>
+      <NetPrice8>57.53</NetPrice8>
+      <GrossPrice8>70.19</GrossPrice8>
+      <NetPrice9>53.1</NetPrice9>
+      <GrossPrice9>64.78</GrossPrice9>
+      <SupplierProductCode>1102015928 7062870990</SupplierProductCode>
+      <SupplierNetPrice>48</SupplierNetPrice>
+      <SupplierGrossPrice>58.56</SupplierGrossPrice>
+      <SizeUm>cm</SizeUm>
+      <WeightUm>kg</WeightUm>
+      <ManageWarehouse>true</ManageWarehouse>
+      <MinStock>2</MinStock>
+      <AvailableQty>50</AvailableQty>
+      <CustomField3>1-TESTATO-QUANTITA'</CustomField3>
+      <Notes>&lt;p class="escsel"&gt;
+GTA1444V,GT1544V
+740821-0001
+740821-2001S
+740821-5001S
+740821-0002
+740821-2002S
+740821-5002S
+750030-0001
+750030-2001S
+750030-5001S
+750030-0002
+750030-2002S
+750030-5002S
+753420-0002
+753420-2002S
+753420-5002S
+753420-0003
+753420-2003S
+753420-5003S
+753420-0004
+753420-2004S
+753420-5004S
+753420-0005
+753420-2005S
+753420-5005S
+753420-0006
+753420-2006S
+753420-5006S
+762328-0001
+762328-2001S
+762328-5001S
+762328-0002
+762328-2002S
+762328-5002S
+762328-0003
+762328-2003S
+762328-5003S
+&lt;/p&gt;</Notes>
+    </Product>
+    <Product>
+      <InternalID>1235</InternalID>
+      <Code>BH175</Code>
+      <Description>CORPO CENTRALE  
+GARRETT GT14-GT15</Description>
+      <DescriptionHtml></DescriptionHtml>
+      <Category>CORPO CENTRALE</Category>
+      <Vat Perc="22" Class="Imponibile" Description="Aliquota 22%">22</Vat>
+      <Um>pz</Um>
+      <NetPrice1>27</NetPrice1>
+      <GrossPrice1>32.94</GrossPrice1>
+      <NetPrice2>25.65</NetPrice2>
+      <GrossPrice2>31.29</GrossPrice2>
+      <NetPrice3>24.3</NetPrice3>
+      <GrossPrice3>29.65</GrossPrice3>
+      <NetPrice4>22.95</NetPrice4>
+      <GrossPrice4>28</GrossPrice4>
+      <NetPrice5>21.6</NetPrice5>
+      <GrossPrice5>26.35</GrossPrice5>
+      <NetPrice6>20.25</NetPrice6>
+      <GrossPrice6>24.71</GrossPrice6>
+      <NetPrice7>18.9</NetPrice7>
+      <GrossPrice7>23.06</GrossPrice7>
+      <NetPrice8>17.55</NetPrice8>
+      <GrossPrice8>21.41</GrossPrice8>
+      <NetPrice9>16.2</NetPrice9>
+      <GrossPrice9>19.76</GrossPrice9>
+      <SupplierCode>0002</SupplierCode>
+      <SupplierName>E&amp;E</SupplierName>
+      <SupplierProductCode>1102017454 G11-2-1</SupplierProductCode>
+      <SupplierNetPrice>15</SupplierNetPrice>
+      <SupplierGrossPrice>18.3</SupplierGrossPrice>
+      <SizeUm>cm</SizeUm>
+      <WeightUm>kg</WeightUm>
+      <ManageWarehouse>true</ManageWarehouse>
+      <OrderStep>1</OrderStep>
+      <MinStock>2</MinStock>
+      <AvailableQty>0</AvailableQty>
+      <Notes>&lt;p class="escsel"&gt;
+GTA144V,GT1544V
+740821-0001
+740821-2001S
+740821-5001S
+740821-0002
+740821-2002S
+740821-5002S
+750030-0001
+750030-2001S
+750030-5001S
+750030-0002
+750030-2002S
+750030-5002S
+753420-0002
+753420-2002S
+753420-5002S
+753420-0003
+753420-2003S
+753420-5003S
+753420-0004
+753420-2004S
+753420-5004S
+753420-0005
+753420-2005S
+753420-5005S
+753420-0006
+753420-2006S
+753420-5006S
+762328-0001
+762328-2001S
+762328-5001S
+762328-0002
+762328-2002S
+762328-5002S
+762328-0003
+762328-2003S
+762328-5003S
+&lt;/p&gt;</Notes>
+    </Product>
+    <Product>
+      <InternalID>1372</InternalID>
+      <Code>VNT2</Code>
+      <Description>GEOMETRIA VARIABILE
+GARRETT GT14-GT15</Description>
+      <DescriptionHtml></DescriptionHtml>
+      <Category>GEOMETRIA VARIABILE</Category>
+      <Vat Perc="22" Class="Imponibile" Description="Aliquota 22%">22</Vat>
+      <Um>pz</Um>
+      <NetPrice1>55.5</NetPrice1>
+      <GrossPrice1>67.71</GrossPrice1>
+      <NetPrice2>52.73</NetPrice2>
+      <GrossPrice2>64.33</GrossPrice2>
+      <NetPrice3>49.95</NetPrice3>
+      <GrossPrice3>60.94</GrossPrice3>
+      <NetPrice4>47.18</NetPrice4>
+      <GrossPrice4>57.56</GrossPrice4>
+      <NetPrice5>44.4</NetPrice5>
+      <GrossPrice5>54.17</GrossPrice5>
+      <NetPrice6>41.63</NetPrice6>
+      <GrossPrice6>50.79</GrossPrice6>
+      <NetPrice7>38.85</NetPrice7>
+      <GrossPrice7>47.4</GrossPrice7>
+      <NetPrice8>36.08</NetPrice8>
+      <GrossPrice8>44.02</GrossPrice8>
+      <NetPrice9>33.3</NetPrice9>
+      <GrossPrice9>40.63</GrossPrice9>
+      <ProducerName>GARRETT</ProducerName>
+      <SupplierCode>0002</SupplierCode>
+      <SupplierName>E&amp;E</SupplierName>
+      <SupplierProductCode>1102015830 N004  7167680002</SupplierProductCode>
+      <SupplierNetPrice>30</SupplierNetPrice>
+      <SupplierGrossPrice>36.6</SupplierGrossPrice>
+      <WarehouseLocation>Scaff. __ Mensola __</WarehouseLocation>
+      <SizeUm>cm</SizeUm>
+      <WeightUm>kg</WeightUm>
+      <ManageWarehouse>true</ManageWarehouse>
+      <OrderStep>1</OrderStep>
+      <MinStock>2</MinStock>
+      <AvailableQty>0</AvailableQty>
+      <Notes>&lt;p class="escsel"&gt;
+GTA144V,GT1544V
+740611-0001
+740611-2001S
+740611-5001S
+740611-0002
+740611-2002S
+740611-5002S
+740611-0003
+740611-2003S
+740611-5003S
+740611-0005
+740611-2005S
+740611-5005S
+740821-0001
+740821-2001S
+740821-5001S
+740821-0002
+740821-2002S
+740821-5002S
+750030-0001
+750030-2001S
+750030-5001S
+750030-0002
+750030-2002S
+750030-5002S
+753420-0002
+753420-2002S
+753420-5002S
+753420-0003
+753420-2003S
+753420-5003S
+753420-0004
+753420-2004S
+753420-5004S
+753420-0005
+753420-2005S
+753420-5005S
+753420-0006
+753420-2006S
+753420-5006S
+762328-0001
+762328-2001S
+762328-5001S
+762328-0002
+762328-2002S
+762328-5002S
+762328-0003
+762328-2003S
+762328-5003S
+766111-0001
+766111-2001S
+782403-0001
+782403-2001S
+782403-5001S
+28201-A120
+28201-2A610
+282012A610
+9663199080
+&lt;/p&gt;</Notes>
+    </Product>
+    <Product>
+      <InternalID>2730</InternalID>
+      <Code>CW455</Code>
+      <Description>GIRANTE COMPRESSORE  
+GARRETT GT14-GT15</Description>
+      <DescriptionHtml></DescriptionHtml>
+      <Category>GIRANTE COMPRESSORE</Category>
+      <Vat Perc="22" Class="Imponibile" Description="Aliquota 22%">22</Vat>
+      <NetPrice1>13.35</NetPrice1>
+      <GrossPrice1>16.29</GrossPrice1>
+      <NetPrice2>12.68</NetPrice2>
+      <GrossPrice2>15.47</GrossPrice2>
+      <NetPrice3>12.02</NetPrice3>
+      <GrossPrice3>14.66</GrossPrice3>
+      <NetPrice4>11.35</NetPrice4>
+      <GrossPrice4>13.85</GrossPrice4>
+      <NetPrice5>10.68</NetPrice5>
+      <GrossPrice5>13.03</GrossPrice5>
+      <NetPrice6>10.01</NetPrice6>
+      <GrossPrice6>12.21</GrossPrice6>
+      <NetPrice7>9.35</NetPrice7>
+      <GrossPrice7>11.41</GrossPrice7>
+      <NetPrice8>8.68</NetPrice8>
+      <GrossPrice8>10.59</GrossPrice8>
+      <NetPrice9>8.01</NetPrice9>
+      <GrossPrice9>9.77</GrossPrice9>
+      <ProducerName>GARRETT</ProducerName>
+      <SupplierCode>0002</SupplierCode>
+      <SupplierName>E&amp;E</SupplierName>
+      <SupplierProductCode>1102015415 CW-0182  7376830003</SupplierProductCode>
+      <SupplierNetPrice>4</SupplierNetPrice>
+      <SupplierGrossPrice>4.88</SupplierGrossPrice>
+      <SizeUm>cm</SizeUm>
+      <WeightUm>kg</WeightUm>
+      <ManageWarehouse>true</ManageWarehouse>
+      <OrderStep>27</OrderStep>
+      <MinStock>2</MinStock>
+      <AvailableQty>0</AvailableQty>
+      <Notes>&lt;p class="escsel"&gt;
+GTA144V,GT1544V
+740821-0001
+740821-2001S
+740821-5001S
+740821-0002
+740821-2002S
+740821-5002S
+750030-0001
+750030-2001S
+750030-5001S
+750030-0002
+750030-2002S
+750030-5002S
+753420-0002
+753420-2002S
+753420-5002S
+753420-0003
+753420-2003S
+753420-5003S
+753420-0004
+753420-2004S
+753420-5004S
+753420-0005
+753420-2005S
+753420-5005S
+753420-0006
+753420-2006S
+753420-5006S
+762328-0001
+762328-2001S
+762328-5001S
+762328-0002
+762328-2002S
+762328-5002S
+762328-0003
+762328-2003S
+762328-5003S
+&lt;/p&gt;</Notes>
+    </Product>
+    <Product>
+      <InternalID>2767</InternalID>
+      <Code>CW492</Code>
+      <Description>GIRANTE COMPRESSORE GARRETT GT17</Description>
+      <DescriptionHtml></DescriptionHtml>
+      <Category>GIRANTE COMPRESSORE</Category>
+      <Vat Perc="22" Class="Imponibile" Description="Aliquota 22%">22</Vat>
+      <NetPrice1>50</NetPrice1>
+      <GrossPrice1>61</GrossPrice1>
+      <NetPrice2>47.5</NetPrice2>
+      <GrossPrice2>57.95</GrossPrice2>
+      <NetPrice3>45</NetPrice3>
+      <GrossPrice3>54.9</GrossPrice3>
+      <NetPrice4>42.5</NetPrice4>
+      <GrossPrice4>51.85</GrossPrice4>
+      <NetPrice5>40</NetPrice5>
+      <GrossPrice5>48.8</GrossPrice5>
+      <NetPrice6>37.5</NetPrice6>
+      <GrossPrice6>45.75</GrossPrice6>
+      <NetPrice7>35</NetPrice7>
+      <GrossPrice7>42.7</GrossPrice7>
+      <NetPrice8>32.5</NetPrice8>
+      <GrossPrice8>39.65</GrossPrice8>
+      <NetPrice9>30</NetPrice9>
+      <GrossPrice9>36.6</GrossPrice9>
+      <ProducerName>GARRETT</ProducerName>
+      <SupplierCode>0002</SupplierCode>
+      <SupplierName>E&amp;E</SupplierName>
+      <SupplierProductCode>1102015402 CW-0037  4361320003</SupplierProductCode>
+      <SupplierNetPrice>5</SupplierNetPrice>
+      <SupplierGrossPrice>6.1</SupplierGrossPrice>
+      <SizeUm>cm</SizeUm>
+      <WeightUm>kg</WeightUm>
+      <ManageWarehouse>true</ManageWarehouse>
+      <MinStock>2</MinStock>
+      <AvailableQty>0</AvailableQty>
+      <CustomField3>1-TESTATO</CustomField3>
+      <Notes>&lt;pclass="escsel"&gt;
+4522020003, 452202-0004, 452247-0003, 452274-0004, 452274-0005, 452274-0006, 452274-0008, 452283-0003, 454216-0001, 454216-0002, 454216-0003, 454219-0002, 454219-0004, 700273-0001, 700273-0002, 700447-0001, 700447-0003, 700447-0004, 700447-0005, 700447-0006, 700447-0007, 700447-0008, 700447-0009, 703245-0001, 703245-0002, 703672-0001, 703672-0002, 703672-0003, 703672-0004, 703672-0005, 703673-0001, 703673-0002, 703673-0003, 703673-0004, 703673-0005, 703894-0003, 704226-0007, 704226-0008, 704226-0010, 705097-0001, 705097-0002, 705204-0001, 705204-0002, 705306-0001, 705306-0002, 705306-0006, 705306-0007, 708618-0004, 708618-0005, 708618-0006, 708618-0007, 708618-0009, 708618-0011, 708639-0002, 708639-0003, 708639-0004, 708639-0005, 708639-0006, 708639-0007, 708639-0008, 708639-0010, 708639-0011, 709035-0004, 709035-0005, 714716-0003, 714716-0004, 715843-0001, 715924-0001, 715924-0002, 715924-0003, 715924-0004, 717345-0002, 717348-0001, 717348-0002, 717625-0001, 717626-0001, 720244-0001, 721164-0003, 721164-0004, 721164-0005, 721164-0009, 721164-0010, 721164-0011, 721164-0012, 721164-0013, 726194-0001, 726194-0002, 726194-0003, 726194-0004, 726194-0005, 727210-0001, 727210-0003, 738123-0001, 738123-0002, 738123-0003, 738123-0004, 738123-0005, 751768-0001, 751768-0002, 751768-0003, 751768-0004, 751768-0005, 801891-0001, 801891-0002, 801891-0003, 801891-0004, 802419-0002, 802419-0003, 802419-0004, 802419-0005,OE-&lt;/p&gt;</Notes>
+    </Product>
+    <Product>
+      <InternalID>2425</InternalID>
+      <Code>CW150</Code>
+      <Description>GIRANTE COMPRESSORE MHI TD04</Description>
+      <DescriptionHtml></DescriptionHtml>
+      <Category>GIRANTE COMPRESSORE</Category>
+      <Vat Perc="22" Class="Imponibile" Description="Aliquota 22%">22</Vat>
+      <ProducerName>GARRETT</ProducerName>
+      <SupplierProductCode>1401404407 CW-0423</SupplierProductCode>
+      <SupplierNetPrice>4</SupplierNetPrice>
+      <SupplierGrossPrice>4.88</SupplierGrossPrice>
+      <SizeUm>cm</SizeUm>
+      <WeightUm>kg</WeightUm>
+      <ManageWarehouse>true</ManageWarehouse>
+      <MinStock>2</MinStock>
+      <AvailableQty>39</AvailableQty>
+      <CustomField3>OK-OK-OK-OK</CustomField3>
+      <Notes>&lt;pclass="escsel"&gt;
+
+
+S-
+49377-07421 49377-07422 ,49377-07423,
+49377-07424,49377-07430,49377-07460,
+49377-07535
+
+
+OE-
+
+                                                                             &lt;/p&gt;</Notes>
+    </Product>
+    <Product>
+      <InternalID>69</InternalID>
+      <Code>SW1</Code>
+      <Description>GIRANTE TURBINA</Description>
+      <DescriptionHtml></DescriptionHtml>
+      <Category>GIRANTE TURBINA</Category>
+      <Vat Perc="22" Class="Imponibile" Description="Aliquota 22%">22</Vat>
+      <Um>pz</Um>
+      <NetPrice1>0</NetPrice1>
+      <GrossPrice1>0</GrossPrice1>
+      <NetPrice2>0</NetPrice2>
+      <GrossPrice2>0</GrossPrice2>
+      <NetPrice3>0</NetPrice3>
+      <GrossPrice3>0</GrossPrice3>
+      <NetPrice4>0</NetPrice4>
+      <GrossPrice4>0</GrossPrice4>
+      <NetPrice5>0</NetPrice5>
+      <GrossPrice5>0</GrossPrice5>
+      <NetPrice6>0</NetPrice6>
+      <GrossPrice6>0</GrossPrice6>
+      <NetPrice7>0</NetPrice7>
+      <GrossPrice7>0</GrossPrice7>
+      <NetPrice8>0</NetPrice8>
+      <GrossPrice8>0</GrossPrice8>
+      <NetPrice9>0</NetPrice9>
+      <GrossPrice9>0</GrossPrice9>
+      <SupplierCode>0002</SupplierCode>
+      <SupplierName>E&amp;E</SupplierName>
+      <SupplierProductCode>TW-0456</SupplierProductCode>
+      <SupplierNetPrice>0</SupplierNetPrice>
+      <SupplierGrossPrice>0</SupplierGrossPrice>
+      <SizeUm>cm</SizeUm>
+      <WeightUm>kg</WeightUm>
+      <ManageWarehouse>true</ManageWarehouse>
+      <MinStock>2</MinStock>
+      <AvailableQty>0</AvailableQty>
+      <Notes>&lt;p class="escsel"&gt;
+12345678
+&lt;/ p&gt;</Notes>
+    </Product>
+    <Product>
+      <InternalID>224</InternalID>
+      <Code>SW429</Code>
+      <Description>GIRANTE TURBINA
+GARRETT GT14-GT15</Description>
+      <DescriptionHtml></DescriptionHtml>
+      <Category>GIRANTE TURBINA</Category>
+      <Vat Perc="22" Class="Imponibile" Description="Aliquota 22%">22</Vat>
+      <Um>pz</Um>
+      <NetPrice1>33</NetPrice1>
+      <GrossPrice1>40.26</GrossPrice1>
+      <NetPrice2>31.35</NetPrice2>
+      <GrossPrice2>38.25</GrossPrice2>
+      <NetPrice3>29.7</NetPrice3>
+      <GrossPrice3>36.23</GrossPrice3>
+      <NetPrice4>28.05</NetPrice4>
+      <GrossPrice4>34.22</GrossPrice4>
+      <NetPrice5>26.4</NetPrice5>
+      <GrossPrice5>32.21</GrossPrice5>
+      <NetPrice6>24.75</NetPrice6>
+      <GrossPrice6>30.2</GrossPrice6>
+      <NetPrice7>23.1</NetPrice7>
+      <GrossPrice7>28.18</GrossPrice7>
+      <NetPrice8>21.45</NetPrice8>
+      <GrossPrice8>26.17</GrossPrice8>
+      <NetPrice9>19.8</NetPrice9>
+      <GrossPrice9>24.16</GrossPrice9>
+      <SupplierCode>0002</SupplierCode>
+      <SupplierName>E&amp;E</SupplierName>
+      <SupplierProductCode>1102015439 1102015441 1102015442 TW-0156-5</SupplierProductCode>
+      <SupplierNetPrice>15</SupplierNetPrice>
+      <SupplierGrossPrice>18.3</SupplierGrossPrice>
+      <SizeUm>cm</SizeUm>
+      <WeightUm>kg</WeightUm>
+      <ManageWarehouse>true</ManageWarehouse>
+      <OrderStep>1</OrderStep>
+      <MinStock>2</MinStock>
+      <AvailableQty>0</AvailableQty>
+      <Notes>&lt;p class="escsel"&gt;
+GTA144V,GT1544V
+740611-0001
+740611-2001S
+740611-5001S
+740611-0002
+740611-2002S
+740611-5002S
+740611-0003
+740611-2003S
+740611-5003S
+740611-0005
+740611-2005S
+740611-5005S
+740821-0001
+740821-2001S
+740821-5001S
+740821-0002
+740821-2002S
+740821-5002S
+750030-0001
+750030-2001S
+750030-5001S
+750030-0002
+750030-2002S
+750030-5002S
+751418-0002
+751418-2002S
+751418-5002S
+753420-0002
+753420-2002S
+753420-5002S
+753420-0003
+753420-2003S
+753420-5003S
+753420-0004
+753420-2004S
+753420-5004S
+753420-0005
+753420-2005S
+753420-5005S
+753420-0006
+753420-2006S
+753420-5006S
+758870-0001
+758870-2001S
+758870-5001S
+762328-0001
+762328-2001S
+762328-5001S
+762328-0002
+762328-2002S
+762328-5002S
+762328-0003
+762328-2003S
+762328-5003S
+766111-0001
+766111-2001S
+766111-5001S
+766259-0001
+766259-2001S
+766259-5001S
+782403-0001
+782403-2001S
+782403-5001S
+&lt;/p&gt;</Notes>
+    </Product>
+    <Product>
+      <InternalID>48</InternalID>
+      <Code>KITICA1</Code>
+      <Description>KIT INTERNO COREASSY GARRETT GT17 2 FASCE</Description>
+      <DescriptionHtml></DescriptionHtml>
+      <Category>KIT INTERNO COREASSY</Category>
+      <Vat Perc="22" Class="Imponibile" Description="Aliquota 22%">22</Vat>
+      <Um>pz</Um>
+      <NetPrice1>19</NetPrice1>
+      <GrossPrice1>23.18</GrossPrice1>
+      <NetPrice2>18.05</NetPrice2>
+      <GrossPrice2>22.02</GrossPrice2>
+      <NetPrice3>17.1</NetPrice3>
+      <GrossPrice3>20.86</GrossPrice3>
+      <NetPrice4>16.15</NetPrice4>
+      <GrossPrice4>19.7</GrossPrice4>
+      <NetPrice5>15.2</NetPrice5>
+      <GrossPrice5>18.54</GrossPrice5>
+      <NetPrice6>14.25</NetPrice6>
+      <GrossPrice6>17.39</GrossPrice6>
+      <NetPrice7>13.3</NetPrice7>
+      <GrossPrice7>16.23</GrossPrice7>
+      <NetPrice8>12.35</NetPrice8>
+      <GrossPrice8>15.07</GrossPrice8>
+      <NetPrice9>11.4</NetPrice9>
+      <GrossPrice9>13.91</GrossPrice9>
+      <ProducerName>GARRETT</ProducerName>
+      <SupplierCode>0002</SupplierCode>
+      <SupplierName>E&amp;E</SupplierName>
+      <SupplierProductCode>1102015781 1102015782 1102015783 1102015771</SupplierProductCode>
+      <SupplierNetPrice>10.8</SupplierNetPrice>
+      <SupplierGrossPrice>13.18</SupplierGrossPrice>
+      <SizeUm>cm</SizeUm>
+      <NetSizeX>5</NetSizeX>
+      <NetSizeY>5</NetSizeY>
+      <NetSizeZ>5</NetSizeZ>
+      <WeightUm>kg</WeightUm>
+      <NetWeight>0.3</NetWeight>
+      <GrossWeight>0.3</GrossWeight>
+      <ManageWarehouse>true</ManageWarehouse>
+      <OrderStep>199</OrderStep>
+      <MinStock>2</MinStock>
+      <AvailableQty>0</AvailableQty>
+      <CustomField3>1-TESTATO</CustomField3>
+      <Notes>&lt;p class="escsel"&gt;
+1102015781 1102015782 1102015783 1102015771 1102-015-775, 1102-015-776, 1102-015-783, 5000-010-066,
+
+
+
+452084-0004-45084-0007-45084-0009
+45084-0010-45084-0011
+452098-0001-452098-0002-452098-5002S 
+452098-0004-452098-5004S 
+452113 
+452151-0002-452151-5002S 
+452151-0004-452151-5004S 
+452187 
+452191 
+452202-0003-452202-5003S 
+452202-0004-452202-5004S 
+452204 
+452124 
+452213 
+452214 
+452222
+452237 
+452238 
+452239 
+452244 
+452264 
+452271 
+452274 
+452283-0003-452283-5003S 
+452301 
+454006 
+454061 
+454064 
+454065 
+454080 
+454082 
+454083 
+454092 
+454093 
+454096 
+454097 
+454098 
+454111 
+454126 
+454134 
+454135 
+454151 
+454155 
+454158 
+454159 
+454161 
+454164 
+454165 
+454171 
+454172 
+454176 
+454183 
+454184 
+454187 
+454192 
+454191-0001-454191-5001S 
+454191-0002-454191-5002S 
+454191-0003-454191-5003S 
+454191-0006-454191-5006S 
+454191-0007-454191-5007S 
+454191-0008-454191-5008S 
+454191-0009-454191-5009S 
+454191-0012-454191-5012S 
+454195 
+454205 
+454216 
+454219-0001-454219-5001S 
+454219-0002-454219-5002S 
+454219-0003-454219-5003S 
+454219-0004-454219-5004S 
+454220 
+454229 
+454231 
+454232 
+466501 
+471037 
+471189 
+700273 
+700447 
+700625 
+700830 
+700917 
+700935 
+700999 
+701000 
+701072 
+701164 
+701196 
+701370 
+701470-0001-701470-5001S 
+701470-0002-701470-5002S 
+701470-0003-701470-5003S 
+701470-0004-701470-5004S 
+701729 
+701796 
+701854 
+701855 
+702338 
+702339 
+702404 
+702637-0001-702637-5001S 
+702637-0005-702637-5005S 
+702989 
+703206 
+703245 
+703389 
+703672 
+703673 
+703674 
+703753 
+703894 
+704050 
+704059 
+704119 
+704226 
+704345 
+704361 
+704412 
+704432-0001-704432-5001S 
+704432-0002-704432-5002S 
+704505 
+704506 
+704594 
+704674 
+705097 
+705204 
+705306 
+705650 
+705954 
+706006 
+706120 
+706680 
+706712 
+706976 
+706977 
+706978 
+707114 
+707240 
+707906 
+708257 
+708258 
+708337 
+708366 
+708618 
+708639 
+708699 
+708866 
+708867 
+709035 
+709045 
+709693 
+709719 
+709720 
+709835 
+709836 
+709837 
+709838 
+709841 
+710060 
+710415 
+710811 
+710812 
+711006 
+711009 
+711017 
+711736 
+712077 
+712078 
+712541 
+712766 
+712968 
+713517 
+713667 
+713672 
+713673 
+714306 
+714334 
+714467-0010-714467-5010S 
+714467-0012-714467-5012S 
+714467-0002-714467-5002S 
+714467-0003-714467-5003S 
+714467-0004-714467-5004S 
+714467-0005-714467-5005S 
+714467-0005-714467-5007S 
+714467-0008-714467-5008S 
+714485 
+714486 
+714652 
+714716 
+715224 
+715294 
+715383 
+715568 
+715645 
+715843 
+715910 
+715924 
+716111 
+716213 
+716215 
+716215 
+716216 
+716419 
+716625 
+716665 
+716685 
+716860 
+716885 
+716938 
+717345 
+717348 
+717383 
+717384 
+717478 
+717625 
+717626 
+717627 
+717628 
+717661 
+717662 
+717858 
+718089 
+720168 
+720243 
+720244-0001-720244-5001S 
+720244-0002-720244-5002S 
+720244-0004-720244-5004S 
+720855-0005-720855-5005S 
+720931 
+721020 
+721021 
+721164 
+721204 
+721843 
+721875
+722010 
+722011 
+722687 
+722730 
+722979 
+723167 
+723739 
+724249 
+724353 
+724483 
+724495 
+724496 
+724639 
+724652 
+724930 
+725071 
+725364 
+725864 
+726194 
+726372 
+726422 
+726683 
+726698 
+727210 
+727262 
+727263 
+727265 
+727266 
+727461 
+727463 
+727477 
+728680 
+728768 
+728989 
+729041 
+729125 
+729325 
+729355 
+729853 
+731320 
+731877 
+733783 
+733952 
+734204 
+734868 
+734899 
+736088 
+736168 
+738123 
+740067 
+740080 
+740611-0001
+740611-2001S
+740611-5001S
+740611-0002
+740611-2002S
+740611-5002S
+740611-0003
+740611-2003S
+740611-5003S
+740611-0005
+740611-2005S
+740611-5005S
+740821-0001
+740821-2001S
+740821-5001S
+740821-0002
+740821-2002S
+740821-5002S
+740911
+741785 
+742110 
+742289 
+742417 
+742614 
+742693 
+742730 
+742807 
+742809 
+742810 
+743115 
+743436 
+750030-0001
+750030-2001S
+750030-5001S
+750030-0002
+750030-2002S
+750030-5002S
+750510 
+750080
+750952 
+751243 
+751418
+751758-0001 / 751758-5001S 
+751758-0002 / 751758-5002S 
+751768 
+751851 
+752233 
+752341 
+752343 
+752528 
+753392 
+750431 
+750441
+750639 
+750718 
+750720 
+750773
+751418-0002
+751418-2002S
+751418-5002S
+753420-0002
+753420-2002S
+753420-5002S
+753420-0003
+753420-2003S
+753420-5003S
+753420-0004
+753420-2004S
+753420-5004S
+753420-0005
+753420-2005S
+753420-5005S
+753420-0006
+753420-2006S
+753420-5006S 
+753519 
+753546 
+753556 
+753707 
+753708 
+753847 
+754774 
+754821 
+755042 
+755046 
+755299 
+755300 
+755373 
+755507 
+755925 
+755963 
+755964 
+756047 
+756062 
+756867-0001 / 756867-5001S 
+756867-0003 / 756867-5003S 
+757042 
+757246 
+757349 
+757779 
+757886 
+758021 
+758062 
+758219 
+758226 
+758532 
+758870 
+759171 
+759394 
+760220 
+760497
+758870-0001
+758870-2001S
+758870-5001S
+762328-0001
+762328-2001S
+762328-5001S
+762328-0002
+762328-2002S
+762328-5002S
+762328-0003
+762328-2003S
+762328-5003S
+766111-0001
+766111-2001S
+766111-5001S
+766259-0001
+766259-2001S
+766259-5001S
+782403-0001
+782403-2001S
+782403-5001S 
+760680 
+760698 
+760699 
+760700 
+760774 
+760822 
+761433 
+761437 
+761618 
+761650 
+761899 
+762060 
+762084 
+762785 
+763360 
+763647 
+763980 
+764204 
+764205 
+764609 
+765016 
+765277 
+765308 
+765314 
+765326 
+765993 
+766111 
+766259 
+766340 
+766470 
+727264-0002 / 727264-5002S 
+727264-0009 / 727264-5009S 
+767720 
+767835 
+767836 
+767837 
+767851 
+767933 
+768329 
+768331 
+
+769674 
+769701 
+769708 
+771903 
+773087 
+773720 
+773721 
+777250 
+777251 
+778794 
+779591 
+782053 
+782403 
+782404 
+790179 
+795637 
+801891 
+802013 
+802418 
+821719-0001 821719-0002 821719-0003 
+821719-0004 
+
+762660 
+751578 
+786997 
+765472 
+742240 
+712766-2001S-712766-2002S-712766-5001S-
+46779032-46786078-55191485-55191596-60816402-71723495-71783325-71785250-71788703-71788706-71790772-71793247- 
+
+
+452098-0002, 452151-0002, 452237-0003, 452238-0003, 452239-0003, 452239-0005, 452239-0006, 452239-0008, 701855-0004, 708618-0009, 708618-0011, 708639-0002, 708639-0003, 708639-0004, 708639-0005, 708639-0006, 708639-0007, 708639-0008, 708639-0010, 708639-0011, 709835-0001, 709835-0002, 709835-0003, 709836-0001, 709836-0003, 709836-0004, 709836-0005, 713517-0008, 713517-0009, 713517-0010, 713517-0011, 713517-0012, 713517-0015, 713517-0016, 713672-0004, 713672-0005, 713672-0006, 713672-0007, 713673-0001, 713673-0003, 713673-0004, 713673-0005, 713673-0006, 713673-0007, 714467-0003, 714467-0004, 714467-0005, 714467-0007, 714467-0008, 714467-0010, 714467-0012, 714467-0013, 714467-0014, 714467-0015, 717348-0001, 717348-0002, 717478-0001, 717478-0002, 717478-0003, 717478-0004, 717478-0005, 717478-0006, 717858-0001, 717858-0002, 717858-0003, 717858-0004, 717858-0005, 717858-0006, 717858-0007, 717858-0008, 717858-0009, 717858-0010, 721021-0001, 721021-0003, 721021-0004, 721021-0005, 721021-0006, 721021-0008, 721164-0005, 721164-0009, 721164-0010, 721164-0011, 721164-0012, 721164-0013, 721164-0014, 724930-0002, 724930-0004, 724930-0006, 724930-0008, 724930-0009, 724930-0010, 726422-0012, 726422-0013, 729041-0009, 729325-0002, 729325-0003, 733701-0001, 733701-0004, 733701-0007, 733701-0009, 733701-0010, 751768-0001, 751768-0002, 751768-0003, 751768-0004, 751768-0005, 751851-0001, 751851-0002, 751851-0003, 751851-0004, 752343-0003, 752343-0006, 763647-0014, 763647-0019, 763647-0021, 801891-0001, 801891-0002, 801891-0003, 801891-0004, 802418-0001, 802418-0002, 452084-0004, 452084-0007, 452084-0009, 452084-0010, 452084-0011, 452098-0001, 452098-0004, 452124-0006, 452124-0007, 452151-0004, 452151-0006, 452194-0001, 452195-0001, 452202-0003, 452202-0004, 452214-0001, 452214-0003, 452244-0004, 452244-0005, 452283-0001, 452283-0002, 452283-0003, 454006-0007, 454061-0006, 454061-0007, 454061-0008, 454061-0009, 454061-0010, 454061-0011, 454061-0012, 454061-0014, 454082-0002, 454083-0002, 454093-0001, 454093-0002, 454093-0003, 454093-0004, 454093-0006, 454097-0002, 454098-0001, 454098-0002, 454098-0003, 454111-0001, 454126-0001, 454126-0002, 454135-0001, 454135-0002, 454135-0003, 454135-0004, 454135-0005, 454135-0006, 454135-0007, 454135-0008, 454135-0009, 454135-0010, 454145-0002, 454155-0001, 454155-0002, 454159-0002, 454164-0002, 454164-0004, 454172-0002, 454183-0001, 454183-0002, 454183-0003, 454183-0004, 454183-0005, 454191-0001, 454191-0003, 454191-0004, 454191-0005, 454191-0006, 454191-0007, 454191-0008, 454191-0009, 454191-0010, 454191-0011, 454191-0012, 454191-0013, 454191-0015, 454191-0017, 454192-0001, 454192-0002, 454192-0005, 454193-0001, 454193-0002, 454193-0003, 454193-0004, 454205-0001, 454205-0003, 454205-0006, 454216-0002, 454216-0003, 454219-0004, 454220-0001, 454229-0002, 454231-0002, 454231-0003, 454231-0004, 454231-0005, 454231-0006, 454231-0008, 454231-0009, 454231-0010, 454232-0003, 454232-0004, 454232-0005, 454232-0009, 466501-0002, 466501-0003, 466501-0004, 466501-0005, 471037-0001, 471037-0002, 471189-0001, 700273-0001, 700273-0002, 700447-0001, 700447-0003, 700447-0004, 700447-0005, 700447-0006, 700447-0007, 700447-0008, 700447-0009, 700625-0001, 700625-0002, 700830-0001, 700830-0003, 700917-0001, 700935-0001, 700935-0002, 700935-0003, 700935-0004, 700935-0006, 700935-0007, 700999-0001, 701000-0001, 701072-0001, 701164-0002, 701370-0001, 701470-0001, 701470-0002, 701470-0003, 701470-0004, 701796-0001, 701854-0001, 701854-0002, 701854-0003, 701854-0004, 701854-0005, 701855-0005, 701855-0006, 702213-0001, 702297-0002, 702339-0001, 702404-0001, 702404-0002, 702637-0001, 702989-0003, 702989-0006, 703245-0001, 703245-0002, 703672-0001, 703672-0002, 703672-0003, 703672-0004, 703672-0005, 703673-0001, 703673-0002, 703673-0003, 703673-0004, 703673-0005, 703674-0001, 703753-0001, 704059-0001, 704119-0001, 704226-0007, 704226-0008, 704226-0010, 704361-0004, 704361-0005, 704361-0006, 704361-0010, 704412-0001, 704505-0001, 704505-0002, 704594-0001, 705097-0001, 705650-0001, 705954-0002, 705954-0004, 705954-0009, 705954-0012, 705954-0013, 705954-0014, 705954-0015, 706006-0003, 706006-0004, 706120-0001, 706680-0001, 706712-0001, 706976-0001, 706976-0002, 706977-0001, 706977-0002, 706977-0003, 706978-0001, 706978-0002, 707114-0001, 707240-0001, 707240-0002, 708337-0001, 708337-0002, 708618-0004, 708618-0005, 708618-0006, 708618-0007, 708699-0001, 708866-0002, 708867-0002, 709035-0004, 709035-0005, 709719-0001, 709720-0001, 709837-0001, 709837-0002, 709837-0003, 709838-0001, 709838-0003, 709838-0004, 709838-0005, 709838-0006, 709838-0015, 709841-0002, 710415-0001, 710415-0003, 710415-0007, 710811-0001, 710811-0002, 710812-0001, 711006-0001, 711006-0003, 711006-0004, 711009-0001, 711009-0002, 711009-0003, 711017-0001, 711017-0002, 711017-0003, 711017-0004, 711736-0023, 711736-0025, 711736-0028, 711736-0029, 711736-0030, 711736-0031, 712077-0001, 712078-0001, 712541-0001, 712541-0002, 712541-0003, 712541-0004, 712541-0005, 712541-0006, 712541-0007, 712766-0001, 712766-0002, 712968-0001, 712968-0002, 712968-0003, 712968-0004, 712968-0005, 712968-0006, 712968-0007, 713517-0007, 713667-0001, 713667-0002, 713667-0003, 713672-0001, 713672-0002, 713672-0003, 714306-0005, 714334-0001, 714485-0001, 714485-0002, 714485-0005, 714485-0006, 714485-0008, 714486-0001, 714486-0002, 714486-0005, 714486-0006, 714486-0008, 714652-0004, 714716-0003, 714716-0004, 715224-0001, 715224-0002, 715224-0003, 715230-0005, 715230-0006, 715994-0001, 715294-0002, 715294-0003, 715383-0001, 715568-0001, 715568-0002, 715645-0002, 715645-0004, 715843-0001, 715910-0001, 715910-0002, 715910-0003, 716111-0001, 716213-0001, 716215-0001, 716216-0001, 716625-0001, 716665-0001, 716665-0002, 716860-0001, 716860-0002, 716860-0003, 716860-0004, 716860-0005, 716885-0001, 716885-0002, 716885-0003, 716885-0004, 716885-0005, 716938-0001, 717345-0002, 717371-0001, 717383-0002, 717384-0002, 717505-0016, 717661-0001, 717662-0001, 717662-0002, 718089-0001, 718089-0002, 718089-0003, 718089-0004, 718089-0005, 718089-0006, 718089-0007, 718089-0008, 718089-0010, 720168-0011, 720243-0001, 720243-0002, 720244-0001, 720477-0001, 720855-0001, 720855-0002, 720855-0003, 720855-0004, 720855-0005, 720855-0006, 720855-0007, 720931-0001, 720931-0002, 720931-0003, 720931-0004, 720931-0005, 721204-0001, 721875-0001, 721875-0005, 722011-0003, 722011-0004, 722011-0005, 722011-0007, 722011-0009, 722687-0001, 722730-0001, 722730-0002, 722730-0003, 722730-0004, 722730-0005, 722979-0003, 723167-0001, 723167-0002, 723167-0003, 723167-0004, 723167-0007, 723739-0001, 723739-0002, 724249-0001, 724353-0001, 724483-0003, 724495-0002, 724496-0002, 724639-0002, 724639-0003, 724639-0004, 724639-0005, 724639-0006, 724639-0007, 724652-0001, 724652-0007, 725364-0004, 725364-0006, 725364-0012, 725364-0018, 725364-0021, 725364-0022, 725652-0007, 726194-0001, 726194-0002, 726194-0003, 726194-0004, 726194-0005, 726372-0005, 726372-0010, 726372-0013, 726372-0014, 726683-0001, 726683-0002, 726683-0003, 726698-0001, 726698-0002, 726698-0003, 727210-0001, 727210-0003, 727271-0006, 727271-0007, 727271-0008, 727271-0009, 727271-0010, 727271-0011, 727461-0001, 727461-0002, 727461-0003, 727463-0001, 727463-0002, 727463-0003, 727463-0004, 727463-0006, 727477-0002, 727477-0005, 727477-0006, 727477-0007, 727477-0008, 727626-0008, 728680-0001, 728680-0002, 728680-0003, 728680-0004, 728680-0005, 728680-0006, 728680-0007, 728680-0008, 728680-0009, 728680-0010, 728680-0011, 728680-0012, 728680-0013, 728680-0014, 728680-0015, 728680-0020, 728989-0001, 728989-0003, 728989-0007, 728989-0010, 728989-0015, 728989-0016, 728989-0018, 728989-0019, 729125-0007, 729125-0008, 729125-0009, 729125-0012, 729125-0013, 729355-0001, 729853-0001, 730640-0001, 730640-0002, 731320-0001, 731877-0001, 731877-0003, 731877-0004, 731877-0006, 731877-0007, 731877-0009, 731877-0010, 734204-0001, 734868-0001, 734899-0001, 734899-0002, 736088-0003, 736088-0006, 740611-0001, 740611-0002, 740611-0003, 740611-0005, 740911-0001, 740911-0003, 740911-0006, 740911-0007, 741785-0010, 741785-0013, 741785-0014, 741785-0016, 742289-0002, 742289-0003, 742289-0005, 742417-0001, 742588-0002, 742807-0003, 742809-0005, 750431-0004, 750431-0006, 750431-0007, 750431-0009, 750431-0010, 750431-0012, 750431-0013, 750431-0015, 750441-0005, 750510-0001, 750639-0002, 750718-0001, 750718-0002, 750718-0003, 750718-0004, 750720-0001, 750720-0002, 750720-0003, 750773-0001, 750773-0004, 750773-0007, 750773-0013, 750773-0015, 750773-0017, 750773-0018, 751243-0002, 751578-0001, 751578-0002, 751758-0001, 751758-0002, 752814-0001, 753392-0001, 753392-0003, 753392-0004, 753392-0012, 753392-0015, 753392-0016, 753392-0017, 753392-0018, 753392-0019, 753519-0007, 753519-0008, 753519-0009, 753556-0002, 753556-0006, 753707-0009, 753708-0005, 753847-0002, 753847-0006, 755042-0001, 755042-0002, 755042-0003, 755046-0001, 755046-0002, 755046-0003, 755373-0001, 755507-0001, 755507-0002, 755507-0003, 755507-0004, 755507-0006, 755507-0007, 755507-0008, 755507-0009, 755507-0011, 756047-0002, 756047-0004, 756047-0005, 756047-0006, 757246-0001, 759394-0002, 760497-0001, 760497-0002, 760680-0002, 760680-0003, 760680-0004, 760680-0005, 760680-0006, 760700-0003, 760700-0005, 760774-0002, 760774-0003, 760774-0005, 761618-0001, 761618-0002, 761618-0003, 761618-0004, 761650-0001, 762660-0002, 763263-0005, 765015-0001, 765015-0002, 765015-0003, 765015-0004, 765015-0005, 765015-0006, 765314-0003, 765472-0001, 765472-0002, 766111-0001, 767851-0001, 767851-0003, 767933-0008, 767933-0015, 769155-0015, 769328-0001, 773098-0002, 773098-0005, 773098-0006, 773098-0008, 773720-0001, 773721-0001, 802013-0001, 802419-0002, 802419-0003, 802419-0004, 802419-0005, 452124-0004, 452124-0005, 452187-0001, 452187-0003, 452187-0006, 452204-0001, 452204-0003, 452204-0004, 452204-0005, 452204-0007, 452213-0001, 452213-0002, 452213-0003, 452239-0009, 454158-0001, 454158-0003, 454158-0004, 454159-0001, 454161-0001, 454161-0003, 454161-0004, 454165-0001, 454187-0001, 454195-0001, 454216-0001, 454219-0001, 454219-0002, 454219-0003, 454231-0001, 454231-0007, 454232-0001, 454232-0002, 454232-0006, 454232-0008, 454232-0010, 701196-0002, 701370-0002, 701729-0001, 701729-0003, 701729-0006, 701729-0009, 701729-0010, 701855-0002, 702338-0001, 702637-0002, 703894-0001, 704345-0001, 705204-0001, 705306-0001, 705306-0002, 705306-0006, 705306-0007, 705954-0003, 705954-0006, 705954-0007, 705954-0008, 705954-0010, 705954-0011, 705954-0016, 705954-0017, 707240-0003, 708366-0001, 708366-0002, 708366-0003, 708366-0004, 708366-0005, 708366-0006, 709693-0001, 709841-0001, 710060-0001, 710812-0002, 713517-0005, 713517-0006, 713673-0002, 714652-0005, 714652-0006, 715924-0001, 715924-0002, 715924-0003, 715924-0004, 716419-0002, 717410-0005, 717410-0007, 717625-0001, 717626-0001, 717627-0002, 717628-0001, 717628-0003, 720168-0001, 721020-0001, 721164-0003, 721164-0004, 721164-0006, 722010-0004, 723340-0011, 723340-0012, 723340-0013, 723341-0011, 723341-0012, 723341-0013, 724353-0002, 724353-0004, 724483-0005, 724483-0008, 724483-0009, 725364-0007, 727461-0004, 727461-0005, 727461-0006, 727461-0007, 728768-0005, 728989-0004, 729853-0002, 733952-0001, 736168-0002, 736168-0003, 738123-0002, 738123-0003, 738123-0004, 740067-0002, 740080-0002, 742110-0007, 742289-0001, 742614-0003, 751418-0002, 751855-0001, 752233-0002, 752233-0003, 752233-0007, 752233-0008, 752528-0005, 752610-0009, 752610-0010, 752610-0012, 752610-0015, 752610-0025, 752610-0026, 752610-0029, 752610-0032, 753392-0006, 753392-0009, 754821-0001, 755013-0003, 755013-0004, 755013-0005, 755013-0006, 755864-0001, 755864-0002, 756062-0001, 756062-0002, 757779-0004, 757779-0010, 757779-0020, 757779-0021, 757779-0022, 758226-0002, 758226-0004, 758226-0008, 758226-0010, 758226-0014, 758532-0012, 758532-0019, 758870-0001, 760220-0002, 760220-0003, 760220-0004, 760822-0001, 761899-0001, 761899-0002, 762660-0001, 762785-0001, 762785-0002, 762785-0003, 762785-0004, 763263-0002, 763263-0003, 763263-0004, 763263-0006, 763360-0001, 763980-0004, 763980-0005, 763980-0007, 764609-0001, 764609-0003, 765016-0001, 765016-0002, 765016-0003, 765016-0004, 765016-0005, 765016-0006, 765277-0001, 765326-0002, 765993-0004, 766259-0001, 766340-0001, 766470-0002, 767720-0001, 767720-0002, 767720-0003, 767720-0004, 767720-0005, 767720-0006, 767835-0001, 767836-0001, 767837-0001, 769040-0001, 769701-0001, 769701-0002, 769701-0003, 769701-0004, 769708-0001, 769708-0002, 769708-0003, 769708-0004, 771722-0001, 771722-0002, 773087-0001, 773087-0002, 773087-0003, 774833-0002, 777159-0002, 777159-0003, 777162-0001, 777250-0001, 777251-0001, 778400-0005, 778794-0001, 782053-0001, 782403-0001, 782404-0001, 756016-0005, 1102-015-775, 1102-015-776, 1102-015-783, 5000-010-066, GT15, GT16, GT17, GT18, GT20, GT22, GT25, VNT15, VNT17, VNT20, VNT25              &lt;/p&gt;</Notes>
+    </Product>
+    <Product>
+      <InternalID>2146</InternalID>
+      <Code>BP184</Code>
+      <Description>PIATTO DI CHIUSURA</Description>
+      <DescriptionHtml></DescriptionHtml>
+      <Category>PIATTO DI CHIUSURA</Category>
+      <Vat Perc="22" Class="Imponibile" Description="Aliquota 22%">22</Vat>
+      <Um>pz</Um>
+      <SupplierCode>0002</SupplierCode>
+      <SupplierName>E&amp;E</SupplierName>
+      <SizeUm>cm</SizeUm>
+      <NetSizeX>5</NetSizeX>
+      <WeightUm>kg</WeightUm>
+      <ManageWarehouse>true</ManageWarehouse>
+      <MinStock>2</MinStock>
+      <AvailableQty>0</AvailableQty>
+      <Notes>&lt;pclass="escsel"&gt;
+
+
+TURBO
+753420
+
+S-
+
+
+
+OE-
+
+                                                                             &lt;/p&gt;</Notes>
+    </Product>
+    <Product>
+      <InternalID>2147</InternalID>
+      <Code>BP185</Code>
+      <Description>PIATTO DI CHIUSURA</Description>
+      <DescriptionHtml></DescriptionHtml>
+      <Category>PIATTO DI CHIUSURA</Category>
+      <Vat Perc="22" Class="Imponibile" Description="Aliquota 22%">22</Vat>
+      <Um>pz</Um>
+      <SupplierCode>0002</SupplierCode>
+      <SupplierName>E&amp;E</SupplierName>
+      <SizeUm>cm</SizeUm>
+      <NetSizeX>5</NetSizeX>
+      <WeightUm>kg</WeightUm>
+      <ManageWarehouse>true</ManageWarehouse>
+      <MinStock>2</MinStock>
+      <AvailableQty>0</AvailableQty>
+      <Notes>&lt;pclass="escsel"&gt;
+
+
+TURBO
+753420
+
+
+S-
+
+
+
+OE-
+
+                                                                             &lt;/p&gt;</Notes>
+    </Product>
+    <Product>
+      <InternalID>2149</InternalID>
+      <Code>BP187</Code>
+      <Description>PIATTO DI CHIUSURA</Description>
+      <DescriptionHtml></DescriptionHtml>
+      <Category>PIATTO DI CHIUSURA</Category>
+      <Vat Perc="22" Class="Imponibile" Description="Aliquota 22%">22</Vat>
+      <Um>pz</Um>
+      <SupplierCode>0002</SupplierCode>
+      <SupplierName>E&amp;E</SupplierName>
+      <SizeUm>cm</SizeUm>
+      <NetSizeX>5</NetSizeX>
+      <WeightUm>kg</WeightUm>
+      <ManageWarehouse>true</ManageWarehouse>
+      <MinStock>2</MinStock>
+      <AvailableQty>0</AvailableQty>
+      <Notes>&lt;pclass="escsel"&gt;
+
+
+TURBO
+753420
+
+
+S-
+
+
+
+OE-
+
+                                                                             &lt;/p&gt;</Notes>
+    </Product>
+    <Product>
+      <InternalID>2152</InternalID>
+      <Code>BP190</Code>
+      <Description>PIATTO DI CHIUSURA</Description>
+      <DescriptionHtml></DescriptionHtml>
+      <Category>PIATTO DI CHIUSURA</Category>
+      <Vat Perc="22" Class="Imponibile" Description="Aliquota 22%">22</Vat>
+      <Um>pz</Um>
+      <SupplierCode>0002</SupplierCode>
+      <SupplierName>E&amp;E</SupplierName>
+      <SizeUm>cm</SizeUm>
+      <NetSizeX>5</NetSizeX>
+      <WeightUm>kg</WeightUm>
+      <ManageWarehouse>true</ManageWarehouse>
+      <MinStock>2</MinStock>
+      <AvailableQty>0</AvailableQty>
+      <Notes>&lt;pclass="escsel"&gt;
+
+
+TURBO
+753420
+
+S-
+
+
+
+OE-
+
+                                                                             &lt;/p&gt;</Notes>
+    </Product>
+    <Product>
+      <InternalID>1998</InternalID>
+      <Code>BP36</Code>
+      <Description>PIATTO DI CHIUSURA
+GARRETT GT14-GT15</Description>
+      <DescriptionHtml></DescriptionHtml>
+      <Category>PIATTO DI CHIUSURA</Category>
+      <Vat Perc="22" Class="Imponibile" Description="Aliquota 22%">22</Vat>
+      <Um>pz</Um>
+      <NetPrice1>5.2</NetPrice1>
+      <GrossPrice1>6.34</GrossPrice1>
+      <NetPrice2>4.94</NetPrice2>
+      <GrossPrice2>6.03</GrossPrice2>
+      <NetPrice3>4.68</NetPrice3>
+      <GrossPrice3>5.71</GrossPrice3>
+      <NetPrice4>4.42</NetPrice4>
+      <GrossPrice4>5.39</GrossPrice4>
+      <NetPrice5>4.16</NetPrice5>
+      <GrossPrice5>5.08</GrossPrice5>
+      <NetPrice6>3.9</NetPrice6>
+      <GrossPrice6>4.76</GrossPrice6>
+      <NetPrice7>3.64</NetPrice7>
+      <GrossPrice7>4.44</GrossPrice7>
+      <NetPrice8>3.38</NetPrice8>
+      <GrossPrice8>4.12</GrossPrice8>
+      <NetPrice9>3.12</NetPrice9>
+      <GrossPrice9>3.81</GrossPrice9>
+      <SupplierCode>0002</SupplierCode>
+      <SupplierName>E&amp;E</SupplierName>
+      <SupplierProductCode>1102317300</SupplierProductCode>
+      <SupplierNetPrice>2</SupplierNetPrice>
+      <SupplierGrossPrice>2.44</SupplierGrossPrice>
+      <SizeUm>cm</SizeUm>
+      <NetSizeX>5</NetSizeX>
+      <WeightUm>kg</WeightUm>
+      <ManageWarehouse>true</ManageWarehouse>
+      <MinStock>2</MinStock>
+      <AvailableQty>0</AvailableQty>
+      <CustomField3>OK-OK-METTERE QUANTITA'</CustomField3>
+      <Notes>&lt;p class="escsel"&gt;
+GTA144V,GT1544V
+740821-0001
+740821-2001S
+740821-5001S
+740821-0002
+740821-2002S
+740821-5002S
+750030-0001
+750030-2001S
+750030-5001S
+750030-0002
+750030-2002S
+750030-5002S
+753420-0002
+753420-2002S
+753420-5002S
+753420-0003
+753420-2003S
+753420-5003S
+753420-0004
+753420-2004S
+753420-5004S
+753420-0005
+753420-2005S
+753420-5005S
+753420-0006
+753420-2006S
+753420-5006S
+762328-0001
+762328-2001S
+762328-5001S
+762328-0002
+762328-2002S
+762328-5002S
+762328-0003
+762328-2003S
+762328-5003S
+&lt;/p&gt;</Notes>
+    </Product>
+    <Product>
+      <InternalID>2998</InternalID>
+      <Code>SC135</Code>
+      <Description>SCUDO TERMICO
+GARRETT GT14-GT15</Description>
+      <DescriptionHtml></DescriptionHtml>
+      <Category>SCUDO TERMICO</Category>
+      <Vat Perc="22" Class="Imponibile" Description="Aliquota 22%">22</Vat>
+      <NetPrice1>5.8</NetPrice1>
+      <GrossPrice1>7.08</GrossPrice1>
+      <NetPrice2>5.51</NetPrice2>
+      <GrossPrice2>6.72</GrossPrice2>
+      <NetPrice3>5.22</NetPrice3>
+      <GrossPrice3>6.37</GrossPrice3>
+      <NetPrice4>4.93</NetPrice4>
+      <GrossPrice4>6.01</GrossPrice4>
+      <NetPrice5>4.64</NetPrice5>
+      <GrossPrice5>5.66</GrossPrice5>
+      <NetPrice6>4.35</NetPrice6>
+      <GrossPrice6>5.31</GrossPrice6>
+      <NetPrice7>4.06</NetPrice7>
+      <GrossPrice7>4.95</GrossPrice7>
+      <NetPrice8>3.77</NetPrice8>
+      <GrossPrice8>4.6</GrossPrice8>
+      <NetPrice9>3.48</NetPrice9>
+      <GrossPrice9>4.25</GrossPrice9>
+      <SupplierProductCode>1102015344 G22</SupplierProductCode>
+      <SupplierNetPrice>2</SupplierNetPrice>
+      <SupplierGrossPrice>2.44</SupplierGrossPrice>
+      <SizeUm>cm</SizeUm>
+      <WeightUm>kg</WeightUm>
+      <ManageWarehouse>true</ManageWarehouse>
+      <MinStock>2</MinStock>
+      <AvailableQty>0</AvailableQty>
+      <CustomField1>GARRETT</CustomField1>
+      <CustomField3>AGGIORNATO</CustomField3>
+      <Notes>&lt;p class="escsel"&gt;
+GTA144V,GT1544V
+700960-0001 700960-2001S 700960-5001S
+700960-0002 700960-2002S 700960-5002S
+700960-0003 700960-2003S 700960-5003S
+700960-0004 700960-2004S 700960-5004S
+700960-0005 700960-2005S 700960-5005S
+700960-0008 700960-2008S 700960-5008S
+700960-0011 700960-2011S 700960-5011S
+700960-0012 700960-2012S 700960-5012S 
+723340-0011 723340-2011S 723340-5011S
+723340-0012 723340-2012S 723340-5012S
+723340-0013 723340-2013S 723340-5013S
+740611-0001 740611-2001S 740611-5001S
+740611-0002 740611-2002S 740611-5002S
+740611-0003 740611-2003S 740611-5003S
+740611-0005 740611-2005S 740611-5005S
+740821-0001 740821-2001S 740821-5001S
+740821-0002 740821-2002S 740821-5002S
+750030-0001 750030-2001S 750030-5001S
+750030-0002 750030-2002S 750030-5002S
+751418-0002 751418-2002S 751418-5002S
+752341-0003 752341-2003S 752341-5003S
+752341-0006 752341-2006S 752341-5006S
+753420-0002 753420-2002S 753420-5002S
+753420-0003 753420-2003S 753420-5003S
+753420-0004 753420-2004S 753420-5004S
+753420-0005 753420-2005S 753420-5005S
+753420-0006 753420-2006S 753420-5006S
+758870-0001 758870-2001S 758870-5001S
+762328-0001 762328-2001S 762328-5001S
+762328-0002 762328-2002S 762328-5002S
+762328-0003 762328-2003S 762328-5003S
+766111-0001 766111-2001S 766111-5001S
+766259-0001 766259-2001S 766259-5001S
+782403-0001 782403-2001S 782403-5001S 
+&lt;/p&gt;</Notes>
+    </Product>
+  </Products>
+</EasyfattProducts>
