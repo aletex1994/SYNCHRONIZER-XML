@@ -2,10 +2,10 @@
 
 //COLLEGAMENTO AL DB
 
-$host='localhost';
-$user='root';
-$psw='qwedcvbnm';
-$db='woocomm';
+$host='your_db';
+$user='tex1994';
+$psw='yourpsw';
+$db='DATABASE';
 
 $link=new mysqli($host,$user,$psw,$db);
 
