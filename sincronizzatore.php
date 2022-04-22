@@ -80,9 +80,7 @@ foreach($xml->Products as $Prd){
             $ID_categoria = $Lista_Categorie[$CategoriaInEntrataMinuscola];
 
         }else{
-
             $ID_categoria = 222;
-
         }
 
         $x++;
@@ -166,18 +164,13 @@ foreach($xml->Products as $Prd){
         $sqlwpTermsRelationships2 = "Insert into wp_term_relationships (object_id, term_taxonomy_id, term_order) values ($MaxId, $ID_categoria, 0);";
         mysqli_query($link,$sqlwpTermsRelationships2);
 
-        //QUI CI SAREBBE BLOCCO PER TRADUTTORE VEDERE SLIDE MICHELE
-
-
-
         }
-
-        
+     
     }
 
     echo "</br></br>";
     $i++;
-
+    
 }
 
 
